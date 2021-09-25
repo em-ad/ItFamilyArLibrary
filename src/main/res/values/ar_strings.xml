@@ -1,0 +1,12 @@
+<resources>
+    <string name="ar_init_text">Checking AR prerequisites ...</string>
+    <string name="ar_installgpsar_text">Installing Google Play Services for AR ...</string>
+    <string name="ar_notsupported_text">AR is not supported on this device.</string>
+    <string name="ar_requiresandroid7plus_text">AR requires Android 7+</string>
+
+    <string name="ar_pref_firsttimerunstat">firstTimeRun</string>
+    <string name="ar_pref_gotarcodeapktooold">gotARCodeApkTooOld</string>
+    <string name="ar_pref_assetsstaged">assetsStaged</string>
+    <string name="ar_fit_image_to_scan">Fit image to scan</string>
+    <string name="ar_problem_with_db">Could not load AR database</string>
+</resources>
